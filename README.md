@@ -12,7 +12,7 @@ A human-in-the-loop agentic system for poultry-farm operations. It turns natural
 
 **Stack:** Python, FastAPI, React Native, Expo, TypeScript, JSON Schema, Playwright and Docker.
 
-The repository also documents [how I use OpenAI Codex](https://github.com/nbenitz/granja-luna-agent/pull/2) for analysis, planning, initial implementation, refactoring and testing while retaining human review and responsibility for business rules.
+The repository also documents [how I use OpenAI Codex](https://github.com/nbenitz/granja-luna-agent/blob/master/docs/codex-case-study.md) for analysis, planning, initial implementation, refactoring and testing while retaining human review and responsibility for business rules.
 
 ### [Avícola MBoré](https://github.com/nbenitz/avicola-mbore)
 
